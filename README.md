@@ -26,8 +26,6 @@ Also, Globalized Design Transfers as references which generated once globally an
 
 For instance, a globalized schedule document, or a globalized legal document which accepted as a reference for all countries as a base and can be developed/improved based on local needs
 
-![An alternative scenario for IFC & ISO 19650](https://media.licdn.com/dms/image/C4D12AQEC4nl8xmHEwg/article-inline_image-shrink_1000_1488/0?e=1574294400&v=beta&t=rr2KNzn6TkmOQRDdx7YG5CcVg2huR9X18xuJO35AsFg)
-
 And all the Globalized resources flattened as well as decoupled as “Models” and “Data/Information Templates/Psets” for multiple-use resources to generate GRVs and GDTs as you see in the aforementioned picture
 
 **This will reduce costs and repetitions, and will increase trustworthy and accuracy and less legal issues in the projects**
