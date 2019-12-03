@@ -14,8 +14,9 @@ The proposed idea is so close to RVs and DTVs (DTs) but different! We have some 
 
 **1. Globalized Reference Views - GRVs**
 
-* Material (Material Bank, IFC-based materials with advanced colors and textures)
-* Product (Product Bank, IFC-based products with advanced materials)
+* [MaterialPass](https://github.com/IfcXtreme/MaterialPass)
+* [ProductPass](https://github.com/IfcXtreme/ProductPass)
+* [FacilityPass](https://github.com/IfcXtreme/FacilityPass)
 * Other Globalized Reference Views
 
 
